@@ -1,4 +1,4 @@
-# Personal Landing Page Portfolio
+# Personal Page
 This project is a personal landing page designed to showcase my background, skills, and development work. It serves as a central hub for my portfolio, highlighting both my technical abilities and my approach to building thoughtful, user-focused applications.
 
 ## Overview
@@ -67,7 +67,7 @@ This project represents my growth as a developer and serves as a foundation for 
 
 ## How to Open the Project
 1. Download or clone the repository:
-git clone https://github.com/Sean-MacNabb/Personal_Landing_Page_Project.git
+git clone https://github.com/Sean-MacNabb/personal-page.git
 3. Navigate into the project folder
 4. Open index.html in your browser
 
