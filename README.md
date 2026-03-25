@@ -54,16 +54,6 @@ The styling focuses on:
 - Social media integration (LinkedIn, GitHub, Instagram)
 - Clean and minimal UI with a professional aesthetic
 
-## Project Structure
-/project-root
-│── index.html
-│── about.html
-│── portfolio.html
-│── contact.html
-│── style.css
-│── /images
-│── /screenshots
-
 ## Purpose
 This project represents my growth as a developer and serves as a foundation for future expansion. It reflects my focus on building:
 - Clean, scalable interfaces
@@ -77,9 +67,9 @@ This project represents my growth as a developer and serves as a foundation for 
 
 ## How to Open the Project
 1. Download or clone the repository:
-git clone https://github.com/Sean-MacNabb/Personal_Landing_Page_Assignment.git
-2. Navigate into the project folder
-3. Open index.html in your browser
+git clone https://github.com/Sean-MacNabb/Personal_Landing_Page_Project.git
+3. Navigate into the project folder
+4. Open index.html in your browser
 
 ## Author
 Sean M  
